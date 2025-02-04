@@ -1,3 +1,7 @@
-Identify what players fit the criteria that we're looking for.
-Gather the necessary data from the necessary source(s). (In this case we are opting for fbref)
-Scrape the data and process it.
+Identify what players fit the criteria that we're looking for through heatmaps on Sofascore.
+Gather the necessary data from the necessary source(s). (In this case we are opting for fbref).
+Copy and paste the data on excel and save it to a xlsx file.
+Open the excel files and do some pre-processing and cleaning.
+Perform exploratory data analysis on the data.
+Plot our findings on multiple graphs.
+Elaborate our findings.
